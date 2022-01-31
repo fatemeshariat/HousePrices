@@ -2,7 +2,8 @@
 
 Fatemeh Shariat, Azade Parvizi October 2020
 
-House pricing is an important topic that worries most people, because we can never predict exact prices according to neighborhood and facilities.
-In this paper we are trying to build a Machin learning model to predict house prices and then we try to build a recommender system for house buyers. We will use Ames dataset that contains information of houses and their different features and we will use Python programming language with a number of Python packages.
+In this paper we are trying to build a Machin learning model to predict house prices and then we try to build a recommender system for house buyers. We will use Ames dataset that contains information of houses and their different features provided by De Cock at http://www.kaggle.com/prevek18/ames-housing-dataset.
+Then we will be programming in Python using these packages: pandas, numpy, seaborn, matplotlib, scipy, sklearn, xgboost, lightgbm.
+Machine learning methods used: Lasso, ElasticNet, KernelRidge, Decision Tree, XGBoostRegression, RandomForest.
 
 for viewing the project you have to open the "HousePricing" file!
